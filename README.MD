@@ -2,10 +2,6 @@
 
 A simple phone store management system built using JavaScript Arrays and basic CRUD operations.
 
-## 🌐 Live Demo
-
-[View Live Website](YOUR_LIVE_DEMO_LINK)
-
 ## 🛠️ Technologies Used
 
 - HTML5
